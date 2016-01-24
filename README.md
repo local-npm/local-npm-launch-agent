@@ -8,7 +8,7 @@ Usage
 
 Run this command (**without sudo!**):
 
-    curl -sL https://raw.githubusercontent.com/nolanlawson/local-npm-launch-agent/master/local-npm-launch-agent.py | python -
+    curl -sL https://raw.githubusercontent.com/nolanlawson/local-npm-launch-agent/master/script.py | python -
 
 ### What this does
 
